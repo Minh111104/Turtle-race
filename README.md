@@ -49,3 +49,8 @@ The **Turtle Race Game** simulates a race between colorful turtles. Players can:
     - If your bet was incorrect: 😔 "You've lost!"
 
 4. Click anywhere on the screen to exit the game.
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
